@@ -50,3 +50,13 @@ h1{
     font-weight: bolder; 
     color: white;
 }
+
+.all-single{
+    display: flex;
+}
+
+.single{
+    padding-right: 60px;
+
+    
+}
